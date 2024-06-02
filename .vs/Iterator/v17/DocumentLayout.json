@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SE401\\Iterator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB0515F-BD78-4D66-83C3-1155AD8BD313}|Iterator\\Iterator.csproj|f:\\se401\\iterator\\iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB0515F-BD78-4D66-83C3-1155AD8BD313}|Iterator\\Iterator.csproj|solutionrelative:iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB0515F-BD78-4D66-83C3-1155AD8BD313}|Iterator\\Iterator.csproj|f:\\se401\\iterator\\iterator\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB0515F-BD78-4D66-83C3-1155AD8BD313}|Iterator\\Iterator.csproj|solutionrelative:iterator\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB0515F-BD78-4D66-83C3-1155AD8BD313}|Iterator\\Iterator.csproj|f:\\se401\\iterator\\iterator\\aggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB0515F-BD78-4D66-83C3-1155AD8BD313}|Iterator\\Iterator.csproj|solutionrelative:iterator\\aggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB0515F-BD78-4D66-83C3-1155AD8BD313}|Iterator\\Iterator.csproj|f:\\se401\\iterator\\iterator\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB0515F-BD78-4D66-83C3-1155AD8BD313}|Iterator\\Iterator.csproj|solutionrelative:iterator\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Iterator.cs",
+              "DocumentMoniker": "F:\\SE401\\Iterator\\Iterator\\Iterator.cs",
+              "RelativeDocumentMoniker": "Iterator\\Iterator.cs",
+              "ToolTip": "F:\\SE401\\Iterator\\Iterator\\Iterator.cs",
+              "RelativeToolTip": "Iterator\\Iterator.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:42:45.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aggregator.cs",
+              "DocumentMoniker": "F:\\SE401\\Iterator\\Iterator\\Aggregator.cs",
+              "RelativeDocumentMoniker": "Iterator\\Aggregator.cs",
+              "ToolTip": "F:\\SE401\\Iterator\\Iterator\\Aggregator.cs",
+              "RelativeToolTip": "Iterator\\Aggregator.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:42:05.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SE401\\Iterator\\Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "Iterator\\Program.cs",
+              "ToolTip": "F:\\SE401\\Iterator\\Iterator\\Program.cs",
+              "RelativeToolTip": "Iterator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:41:06.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\SE401\\Iterator\\Iterator\\Student.cs",
+              "RelativeDocumentMoniker": "Iterator\\Student.cs",
+              "ToolTip": "F:\\SE401\\Iterator\\Iterator\\Student.cs",
+              "RelativeToolTip": "Iterator\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:39:50.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
